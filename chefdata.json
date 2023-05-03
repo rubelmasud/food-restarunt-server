@@ -3,48 +3,192 @@
         "id": 1,
         "ChefName": "John Doe",
         "img": "https://th.bing.com/th/id/OIP.3pskoWQIEMgy4E_S5_w9hgHaHa?w=204&h=203&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "description": "Enjoy the delicious Mama Stortinis experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning to end",
         "Years_of_experience": 15,
         "Numbers_of_recipes": 250,
-        "Likes": 15000
+        "Likes": 15000,
+        "recipe": [
+            {
+                "id": "snzdiohpiut",
+                "foodName": "Mughali Chicken",
+                "img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Mughali-Chicken_EXPS_TOHON19_41746_B06_11_15b-18.jpg?w=1200",
+                "howMake": "I enjoy cooking for my family and try to incorporate healthy new foods into our menus. This authentic Indian dish is a favorite. —Aruna Kancharla, Bentonville, Arkansas",
+                "ratting": 5.0
+            },
+            {
+                "id": "fgmxhytkdtu",
+                "foodName": "Samosas",
+                "img": "https://www.tasteofhome.com/wp-content/uploads/2021/02/Samosas_EXPS_THJJ21_259895_B02_11_3b-64.jpg?w=1200",
+                "howMake": "This samosa recipe is one of my family’s absolute favorites. These crispy dough pockets are stuffed with potatoes and peas and then air-fried to give them a healthier twist. In India’s northern and western regions, samosas are a popular street food. They also make a perfect starter or side dish.",
+                "ratting": 4.4
+            },
+            {
+                "id": "snzdigfsxmjeyut",
+                "foodName": "Curry Shrimp and Rice",
+                "img": "https://www.tasteofhome.com/wp-content/uploads/2019/10/Curry-Shrimp-and-Rice_EXPS_TOHFM20_240991_B09_20_1b-1.jpg?resize=1024,1024",
+                "howMake": "I enjoy cooking for my family and try to incorporate healthy new foods into our menus. This authentic Indian dish is a favorite. —Aruna Kancharla, Bentonville, Arkansas",
+                "ratting": 5.0
+            }
+        ]
     },
     {
         "id": 2,
         "ChefName": "Jane Smith",
         "img": "https://th.bing.com/th/id/OIP.YWtQ4hxTD8j-VmGrsaLrDwHaE7?w=274&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning to end",
         "Years_of_experience": 10,
         "Numbers_of_recipes": 180,
-        "Likes": 12000
+        "Likes": 12000,
+        "recipe": [
+            {
+                "id": "trasyjey5",
+                "foodName": "Bruschetta Chicken",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/bruschetta-grilled-chicken-2-1673365204.jpg?crop=0.918xw:0.676xh;0.0510xw,0.249xh&resize=980:*",
+                "howMake": "When summer is in full effect, we pull out the grill any chance we can get for delicious mains and grilled BBQ sides. While we've got plenty of weeknight chicken dinners in our arsenal, this bruschetta grilled chicken is one of our favorite ways to celebrate fresh summer flavors all season long. ",
+                "ratting": 4.1
+            },
+            {
+                "id": "rwjsy5e7y65",
+                "foodName": "Chicken Broccoli Casserole",
+                "img": "https://hips.hearstapps.com/del.h-cdn.co/assets/16/18/1280x1280/square-1462204026-delish-broccoli-bake-1.jpg?resize=980:*",
+                "howMake": "Easy and comforting are two necessities when it comes to weeknight dinners, and this chicken broccoli casserole encapsulates both of those words perfectly. Comfort food at its finest, this casserole makes weeknight dinner an absolute breeze. Filled with chicken, broccoli, rice and plenty of cheese, this hearty bake is basically a leveled up, heartier version of our broccoli cheddar soup you can enjoy all year round.",
+                "ratting": 4.1
+            },
+            {
+                "id": "trjtazsr656",
+                "foodName": "Bruschetta Chicken",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/bruschetta-grilled-chicken-2-1673365204.jpg?crop=0.918xw:0.676xh;0.0510xw,0.249xh&resize=980:*",
+                "howMake": "When summer is in full effect, we pull out the grill any chance we can get for delicious mains and grilled BBQ sides. While we've got plenty of weeknight chicken dinners in our arsenal, this bruschetta grilled chicken is one of our favorite ways to celebrate fresh summer flavors all season long. ",
+                "ratting": 4.1
+            }
+        ]
     },
     {
         "id": 3,
         "ChefName": "Michael Johnson",
         "img": "https://th.bing.com/th/id/OIP.x1tX6QVAcyJUB5ss4H5qnwHaKX?w=123&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning to end",
         "Years_of_experience": 20,
         "Numbers_of_recipes": 350,
-        "Likes": 20000
+        "Likes": 20000,
+        "recipe": [
+            {
+                "id": "gsjrysryye5",
+                "foodName": "Creamy Lemon Herb Chicken",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/delish-202211-slowcookercreamylemonherbchicken-020-1669761243.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+                "howMake": "The beauty of firing up your slow cooker is the aroma you’re hit with when you walk in the door at the end of a long day. A smell that says “dinner is ready!” This slow-cooker creamy lemon herb chicken spends all day bubbling along and results in everything you want in a meal: delicious, comforting, and easy. ",
+                "ratting": 4.4
+            },
+            {
+                "id": "aryjasrywu65",
+                "foodName": "Hearty Tuscan Chicken Pasta",
+                "img": "https://hips.hearstapps.com/del.h-cdn.co/assets/16/04/1453934758-chicken-bacon-spaghetti-delish.jpg?resize=980:*",
+                "howMake": "In a large pot of salted boiling water, cook pasta according to package directions until al dente. Drain, reserving 1 cup pasta water. ",
+                "ratting": 4.9
+            },
+            {
+                "id": "etjwatw56wtw5",
+                "foodName": "Creamy Lemon Herb Chicken",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/delish-202211-slowcookercreamylemonherbchicken-020-1669761243.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+                "howMake": "The beauty of firing up your slow cooker is the aroma you’re hit with when you walk in the door at the end of a long day. A smell that says “dinner is ready!” This slow-cooker creamy lemon herb chicken spends all day bubbling along and results in everything you want in a meal: delicious, comforting, and easy. ",
+                "ratting": 4.4
+            }
+        ]
     },
     {
         "id": 4,
         "ChefName": "Samantha Brown",
         "img": "https://th.bing.com/th/id/OIP.S_4G-CgncF740MDeTeTzmwHaE7?w=274&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning to end",
         "Years_of_experience": 8,
         "Numbers_of_recipes": 120,
-        "Likes": 8000
+        "Likes": 8000,
+        "recipe": [
+            {
+                "id": "etquhat6taw6",
+                "foodName": "Creamy Chicken Piccata With Gnocchi",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/creamy-chicken-piccata-with-gnocchi-lead-643d86058647a.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+                "howMake": "When our weeknight dinners start to feel a little snoozy, we activate our go-to formula for supper success: Start with a dish you love, then add something new. Here, the dish we love is chicken piccata, the Italian-American classic, and the new ingredient is one of our favorite pantry items, boxed gnocchi.",
+                "ratting": 4.2
+            },
+            {
+                "id": "ywsryrwuey467",
+                "foodName": "Thai Fried Rice",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/delish-202101-thaifriedrice-026-ls-1611613162.jpg?crop=1.00xw:0.801xh;0,0.162xh&resize=980:*",
+                "howMake": "Fried rice remains the best thing to do with leftover rice. The slightly dried-out, day-old rice will absorb more of the flavors during the cooking process and crisp up more as it cooks. ",
+                "ratting": 4.9
+            },
+            {
+                "id": "wrsttw6uew65",
+                "foodName": "Creamy Chicken Piccata With Gnocchi",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/creamy-chicken-piccata-with-gnocchi-lead-643d86058647a.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+                "howMake": "When our weeknight dinners start to feel a little snoozy, we activate our go-to formula for supper success: Start with a dish you love, then add something new. Here, the dish we love is chicken piccata, the Italian-American classic, and the new ingredient is one of our favorite pantry items, boxed gnocchi.",
+                "ratting": 4.2
+            }
+        ]
     },
     {
         "id": 5,
         "ChefName": "Robert Lee",
         "img": "https://th.bing.com/th?q=Chef+Cooking+PNG&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-WW&cc=BD&setlang=en&adlt=moderate&t=1&mw=247",
+        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning to end",
         "Years_of_experience": 12,
         "Numbers_of_recipes": 200,
-        "Likes": 14000
+        "Likes": 14000,
+        "recipe": [
+            {
+                "id": "aetjrtrasr",
+                "foodName": "Chicken Enchiladas",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/chicken-enchiladas-lead-644045d1ce96f.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+                "howMake": "When the craving for satisfying comfort food meets the need for a straightforward weeknight dinner, chicken enchiladas are a guaranteed winner. They’re easy, filling, and take less than an hour to prepare from start to finish. Read on for everything you need to know to perfect these.",
+                "ratting": 4.1
+            },
+            {
+                "id": "etwateaet",
+                "foodName": "Grilled Chicken Breast",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/grilled-chicken-vertical-1532030764.jpg?crop=0.993xw:0.663xh;0.00340xw,0.144xh&resize=980:*",
+                "howMake": "The secret is all in the marinade. Our easy, simple marinade uses balsamic, olive oil, brown sugar, garlic, and dried herbs to give our chicken heaps of flavor, and ensure it stays juicy while cooking. We’d recommend marinating it for no longer than 12 hours",
+                "ratting": 4.7
+            },
+            {
+                "id": "wrsyywrsyw",
+                "foodName": "Chicken Burgers",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/190416-chicken-burger-101-1556204262.jpg?crop=0.959xw:0.640xh;0.0306xw,0.207xh&resize=980:*",
+                "howMake": "We all know that beef gets the spotlight when it comes to classic burgers, but when it comes to alternatives, chicken burgers can get a bad rap. They often get left in the dust by other choices like salmon, turkey, and veggies.",
+                "ratting": 4.3
+            }
+        ]
     },
     {
         "id": 6,
         "ChefName": "Olivia Davis",
         "img": "https://th.bing.com/th/id/OIP.9YFJm7V3_dYIBpZaq_36OgHaHQ?w=157&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning to end",
         "Years_of_experience": 5,
         "Numbers_of_recipes": 80,
-        "Likes": 5000
+        "Likes": 5000,
+        "recipe": [
+            {
+                "id": "artzrtgrgtw",
+                "foodName": "Panera Thai Chicken Salad",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/delish-230313-24-panera-thai-chicken-salad-2032-eb-lead-6421eb0a499c5.jpg?resize=1200:*",
+                "howMake": "If you were shocked and dismayed when Panera Bread discontinued their Thai Chicken Salad, today’s your lucky day. Featuring chicken breast, blistered vegetables, and that iconic peanut sauce drizzle, our copycat version of this beloved Panera classic allows you to enjoy it at home any day of the week.",
+                "ratting": 4.5
+            },
+            {
+                "id": "aszrysyrsrgy",
+                "foodName": "Summer Salads",
+                "img": "https://hips.hearstapps.com/hmg-prod/images/greek-orzo-salad-index-6421e9321b7b2.jpg?crop=0.905xw:0.904xh;0.0401xw,0.0737xh&resize=1200:*",
+                "howMake": "Summer is just around the corner, and you know what that means—we're going to start trying to take ALL our meals outside! This means tons of hamburgers, hot dogs, and grilled meat (including grilled seafood too), of course, but that’s not all. As every true BBQ master knows, it’s not enough to just have the perfect proteins. .",
+                "ratting": 4.8
+            },
+            {
+                "id": "asrzryajsryjs",
+                "foodName": "Chicken Teriyaki",
+                "img": "https://hips.hearstapps.com/del.h-cdn.co/assets/17/26/1498851545-shot-1-61.jpg?resize=980:*",
+                "howMake": "Think teriyaki is just a sauce? Think again! Teriyaki is actually a cooking technique originating in Japan, involving boiling or broiling meat or seafood with a sweet and salty soy glaze.",
+                "ratting": 4.2
+            }
+        ]
     }
 ]
