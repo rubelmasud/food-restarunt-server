@@ -3,7 +3,7 @@
         "id": 1,
         "ChefName": "John Doe",
         "img": "https://th.bing.com/th/id/OIP.3pskoWQIEMgy4E_S5_w9hgHaHa?w=204&h=203&c=7&r=0&o=5&dpr=1.5&pid=1.7",
-        "description": "Enjoy the delicious Mama Stortinis experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning to end",
+        "description": "Enjoy the delicious Mama Stortinis experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning  end",
         "Years_of_experience": 15,
         "Numbers_of_recipes": 250,
         "Likes": 15000,
@@ -12,21 +12,21 @@
                 "id": "snzdiohpiut",
                 "foodName": "Mughali Chicken",
                 "img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Mughali-Chicken_EXPS_TOHON19_41746_B06_11_15b-18.jpg?w=1200",
-                "howMake": "I enjoy cooking for my family and try to incorporate healthy new foods into our menus. This authentic Indian dish is a favorite. —Aruna Kancharla, Bentonville, Arkansas",
+                "howMake": "I enjoy cooking for my family and try to incorporate healthy new foods into our menus. This authentic Indian dish is a favorite. —Aruna Kancharla, Bentonville Arkansas",
                 "ratting": 5.0
             },
             {
                 "id": "fgmxhytkdtu",
                 "foodName": "Samosas",
                 "img": "https://www.tasteofhome.com/wp-content/uploads/2021/02/Samosas_EXPS_THJJ21_259895_B02_11_3b-64.jpg?w=1200",
-                "howMake": "This samosa recipe is one of my family’s absolute favorites. These crispy dough pockets are stuffed with potatoes and peas and then air-fried to give them a healthier twist. In India’s northern and western regions, samosas are a popular street food. They also make a perfect starter or side dish.",
+                "howMake": "This samosa recipe is one of my family’s absolute favorites. These crispy dough pockets are stuffed with potatoes and peas and then air-fried to give them a healthier twist. In India’s northern and western regions, samosas are a popular street food. They also make a perfect starter or side dish...",
                 "ratting": 4.4
             },
             {
                 "id": "snzdigfsxmjeyut",
                 "foodName": "Curry Shrimp and Rice",
                 "img": "https://www.tasteofhome.com/wp-content/uploads/2019/10/Curry-Shrimp-and-Rice_EXPS_TOHFM20_240991_B09_20_1b-1.jpg?resize=1024,1024",
-                "howMake": "I enjoy cooking for my family and try to incorporate healthy new foods into our menus. This authentic Indian dish is a favorite. —Aruna Kancharla, Bentonville, Arkansas",
+                "howMake": "I enjoy cooking for my family and try to incorporate healthy new foods into our menus. This authentic Indian dish is a favorite. —Aruna Kancharla, Bentonville, ",
                 "ratting": 5.0
             }
         ]
@@ -35,7 +35,7 @@
         "id": 2,
         "ChefName": "Jane Smith",
         "img": "https://th.bing.com/th/id/OIP.YWtQ4hxTD8j-VmGrsaLrDwHaE7?w=274&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7",
-        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning to end",
+        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, ",
         "Years_of_experience": 10,
         "Numbers_of_recipes": 180,
         "Likes": 12000,
@@ -67,7 +67,7 @@
         "id": 3,
         "ChefName": "Michael Johnson",
         "img": "https://th.bing.com/th/id/OIP.x1tX6QVAcyJUB5ss4H5qnwHaKX?w=123&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
-        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning to end",
+        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, ",
         "Years_of_experience": 20,
         "Numbers_of_recipes": 350,
         "Likes": 20000,
@@ -99,7 +99,7 @@
         "id": 4,
         "ChefName": "Samantha Brown",
         "img": "https://th.bing.com/th/id/OIP.S_4G-CgncF740MDeTeTzmwHaE7?w=274&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7",
-        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, from beginning to end",
+        "description": "Enjoy the delicious Mama Stortini’s experience at your next event. Our knowledgeable event planners and skilled chefs offer extensive experience in handling the details of both intimate parties and large events, casual or elegant. All of our catered events are given the utmost attention to detail. We strive to create a memorable experience for each guest, ",
         "Years_of_experience": 8,
         "Numbers_of_recipes": 120,
         "Likes": 800,
